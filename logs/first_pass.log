@@ -1,0 +1,72 @@
+2025-04-12 23:09:40,876 - INFO - n------Processing All_Beauty------
+2025-04-12 23:11:43,978 - INFO - Compressed reviews to: D:\BigData\raw_review_All_Beauty.tar.gz
+2025-04-12 23:11:49,319 - INFO - Compressed metadata to: D:\BigData\raw_meta_All_Beauty.tar.gz
+2025-04-12 23:11:49,320 - INFO - n------Processing Amazon_Fashion------
+2025-04-12 23:19:39,932 - INFO - Compressed reviews to: D:\BigData\raw_review_Amazon_Fashion.tar.gz
+2025-04-12 23:20:09,685 - INFO - Compressed metadata to: D:\BigData\raw_meta_Amazon_Fashion.tar.gz
+2025-04-12 23:20:09,685 - INFO - n------Processing Appliances------
+2025-04-12 23:23:59,889 - INFO - Compressed reviews to: D:\BigData\raw_review_Appliances.tar.gz
+2025-04-12 23:24:08,376 - INFO - Compressed metadata to: D:\BigData\raw_meta_Appliances.tar.gz
+2025-04-12 23:24:08,376 - INFO - n------Processing Arts_Crafts_and_Sewing------
+2025-04-12 23:42:57,270 - INFO - Compressed reviews to: D:\BigData\raw_review_Arts_Crafts_and_Sewing.tar.gz
+2025-04-12 23:44:14,448 - INFO - Compressed metadata to: D:\BigData\raw_meta_Arts_Crafts_and_Sewing.tar.gz
+2025-04-12 23:44:14,449 - INFO - n------Processing Automotive------
+2025-04-13 00:22:26,637 - INFO - Compressed reviews to: D:\BigData\raw_review_Automotive.tar.gz
+2025-04-13 00:25:20,985 - INFO - Compressed metadata to: D:\BigData\raw_meta_Automotive.tar.gz
+2025-04-13 00:25:20,986 - INFO - n------Processing Baby_Products------
+2025-04-13 00:35:20,307 - INFO - Compressed reviews to: D:\BigData\raw_review_Baby_Products.tar.gz
+2025-04-13 00:35:40,838 - INFO - Compressed metadata to: D:\BigData\raw_meta_Baby_Products.tar.gz
+2025-04-13 00:35:40,838 - INFO - n------Processing Beauty_and_Personal_Care------
+2025-04-13 01:12:58,704 - INFO - Compressed reviews to: D:\BigData\raw_review_Beauty_and_Personal_Care.tar.gz
+2025-04-13 01:12:58,705 - INFO - n------Processing Books------
+2025-04-13 02:10:07,065 - INFO - Compressed reviews to: D:\BigData\raw_review_Books.tar.gz
+2025-04-13 02:10:07,071 - INFO - n------Processing CDs_and_Vinyl------
+2025-04-13 02:21:55,864 - INFO - Compressed reviews to: D:\BigData\raw_review_CDs_and_Vinyl.tar.gz
+2025-04-13 02:22:21,884 - INFO - Compressed metadata to: D:\BigData\raw_meta_CDs_and_Vinyl.tar.gz
+2025-04-13 02:22:21,884 - INFO - n------Processing Cell_Phones_and_Accessories------
+2025-04-13 02:46:27,266 - INFO - Compressed reviews to: D:\BigData\raw_review_Cell_Phones_and_Accessories.tar.gz
+2025-04-13 02:46:27,267 - INFO - n------Processing Clothing_Shoes_and_Jewelry------
+2025-04-13 03:57:00,217 - INFO - Compressed reviews to: D:\BigData\raw_review_Clothing_Shoes_and_Jewelry.tar.gz
+2025-04-13 03:57:00,233 - INFO - n------Processing Digital_Music------
+2025-04-13 03:57:28,779 - INFO - Compressed reviews to: D:\BigData\raw_review_Digital_Music.tar.gz
+2025-04-13 03:57:30,345 - INFO - Compressed metadata to: D:\BigData\raw_meta_Digital_Music.tar.gz
+2025-04-13 03:57:30,345 - INFO - n------Processing Electronics------
+2025-04-13 04:58:01,886 - INFO - Compressed reviews to: D:\BigData\raw_review_Electronics.tar.gz
+2025-04-13 04:58:01,886 - INFO - n------Processing Gift_Cards------
+2025-04-13 04:58:13,439 - INFO - Compressed reviews to: D:\BigData\raw_review_Gift_Cards.tar.gz
+2025-04-13 04:58:13,518 - INFO - Compressed metadata to: D:\BigData\raw_meta_Gift_Cards.tar.gz
+2025-04-13 04:58:13,518 - INFO - n------Processing Grocery_and_Gourmet_Food------
+2025-04-13 05:16:32,292 - INFO - Compressed reviews to: D:\BigData\raw_review_Grocery_and_Gourmet_Food.tar.gz
+2025-04-13 05:17:06,148 - INFO - Compressed metadata to: D:\BigData\raw_meta_Grocery_and_Gourmet_Food.tar.gz
+2025-04-13 05:17:06,148 - INFO - n------Processing Handmade_Products------
+2025-04-13 05:18:55,727 - INFO - Compressed reviews to: D:\BigData\raw_review_Handmade_Products.tar.gz
+2025-04-13 05:19:05,824 - INFO - Compressed metadata to: D:\BigData\raw_meta_Handmade_Products.tar.gz
+2025-04-13 05:19:05,825 - INFO - n------Processing Health_and_Household------
+2025-04-13 05:48:37,187 - INFO - Compressed reviews to: D:\BigData\raw_review_Health_and_Household.tar.gz
+2025-04-13 05:48:37,187 - INFO - n------Processing Health_and_Personal_Care------
+2025-04-13 05:49:32,475 - INFO - Compressed reviews to: D:\BigData\raw_review_Health_and_Personal_Care.tar.gz
+2025-04-13 05:49:34,962 - INFO - Compressed metadata to: D:\BigData\raw_meta_Health_and_Personal_Care.tar.gz
+2025-04-13 05:49:34,963 - INFO - n------Processing Home_and_Kitchen------
+2025-04-13 07:14:22,124 - INFO - Compressed reviews to: D:\BigData\raw_review_Home_and_Kitchen.tar.gz
+2025-04-13 07:14:22,124 - INFO - n------Processing Industrial_and_Scientific------
+2025-04-13 07:22:57,681 - INFO - Compressed reviews to: D:\BigData\raw_review_Industrial_and_Scientific.tar.gz
+2025-04-13 07:23:26,854 - INFO - Compressed metadata to: D:\BigData\raw_meta_Industrial_and_Scientific.tar.gz
+2025-04-13 07:23:26,854 - INFO - n------Processing Kindle_Store------
+2025-04-13 08:04:11,049 - INFO - Compressed reviews to: D:\BigData\raw_review_Kindle_Store.tar.gz
+2025-04-13 08:04:11,050 - INFO - n------Processing Magazine_Subscriptions------
+2025-04-13 08:04:22,854 - INFO - Compressed reviews to: D:\BigData\raw_review_Magazine_Subscriptions.tar.gz
+2025-04-13 08:04:22,972 - INFO - Compressed metadata to: D:\BigData\raw_meta_Magazine_Subscriptions.tar.gz
+2025-04-13 08:04:22,972 - INFO - n------Processing Movies_and_TV------
+2025-04-13 08:26:08,930 - INFO - n------Processing Musical_Instruments------
+2025-04-13 08:32:47,826 - INFO - Compressed reviews to: D:\BigData\raw_review_Musical_Instruments.tar.gz
+2025-04-13 08:33:03,935 - INFO - Compressed metadata to: D:\BigData\raw_meta_Musical_Instruments.tar.gz
+2025-04-13 08:33:03,935 - INFO - n------Processing Office_Products------
+2025-04-13 08:37:26,397 - INFO - n------Processing Patio_Lawn_and_Garden------
+2025-04-13 08:37:28,066 - INFO - n------Processing Pet_Supplies------
+2025-04-13 08:37:28,724 - INFO - n------Processing Software------
+2025-04-13 08:37:29,370 - INFO - n------Processing Sports_and_Outdoors------
+2025-04-13 08:37:30,033 - INFO - n------Processing Subscription_Boxes------
+2025-04-13 08:37:30,681 - INFO - n------Processing Tools_and_Home_Improvement------
+2025-04-13 08:37:31,324 - INFO - n------Processing Toys_and_Games------
+2025-04-13 08:37:31,975 - INFO - n------Processing Video_Games------
+2025-04-13 08:37:32,621 - INFO - n------Processing Unknown------

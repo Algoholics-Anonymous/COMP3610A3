@@ -1,0 +1,11 @@
+2025-04-14 17:00:43,236 - INFO - n------Processing Electronics------
+2025-04-14 17:15:16,167 - INFO - Compressed metadata to: E:\BigData\dataset\raw_meta_Electronics.tar.gz
+2025-04-14 17:16:53,060 - INFO - n------Processing Electronics------
+2025-04-14 17:16:53,067 - INFO - n------Processing Kindle_Store------
+2025-04-14 17:33:39,578 - INFO - Compressed metadata to: E:\BigData\dataset\raw_meta_Kindle_Store.tar.gz
+2025-04-14 17:33:39,579 - INFO - n------Processing Movies_and_TV------
+2025-04-14 17:37:46,029 - INFO - Compressed metadata to: E:\BigData\dataset\raw_meta_Movies_and_TV.tar.gz
+2025-04-14 17:37:46,031 - INFO - n------Processing Sports_and_Outdoors------
+2025-04-14 17:51:08,295 - INFO - Compressed metadata to: E:\BigData\dataset\raw_meta_Sports_and_Outdoors.tar.gz
+2025-04-14 17:51:08,296 - INFO - n------Processing Unknown------
+2025-04-14 17:53:49,117 - INFO - Compressed metadata to: E:\BigData\dataset\raw_meta_Unknown.tar.gz
